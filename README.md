@@ -5,7 +5,7 @@ This repository lists my placements in Croatia's National Informatics Finals, wh
 | Year | Placement | Programming Language | Link to Results |
 |------|-----------|----------------------|-----------------|
 | 2011 | 3rd       | Logo                 | [View Results](https://informatika.azoo.hr/natjecanje/dogadjaj/129/rezultati) |
-| 2012 | 5th       | Logo                 | [View Results](https://informatika.azoo.hr/natjecanje/dogadjaj/182/rezultati) |
+| 2012 | 6th       | Logo                 | [View Results](https://informatika.azoo.hr/natjecanje/dogadjaj/182/rezultati) |
 | 2013 | 7th       | Logo                 | [View Results](https://informatika.azoo.hr/natjecanje/dogadjaj/231/rezultati) |
 | 2014 | 8th       | Logo                 | [View Results](https://informatika.azoo.hr/natjecanje/dogadjaj/284/rezultati) |
 | 2012 | 6th       | C++                  | [View Results](https://informatika.azoo.hr/natjecanje/dogadjaj/182/rezultati) |
