@@ -1,4 +1,4 @@
-# National Informatics Finals Results (2011–2015)
+# National Informatics Finals Results
 
 This repository lists my placements in Croatia's National Informatics Finals, where I competed in algorithms using C++ and Logo, achieving ranks from 3rd to 13th place.
 
